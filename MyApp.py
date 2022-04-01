@@ -1,6 +1,7 @@
 import streamlit as st
 st.title("My primer App")
-#st.button("dale click")
+click=st.button("dale click")
+st.write("el valor de click es: ",click)
 #st.button("otro boton")
 #st.text("Hola mundo")
 #st.text("la siguiente es una integral")
